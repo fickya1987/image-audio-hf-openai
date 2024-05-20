@@ -15,9 +15,10 @@ pip install -r requirements.txt
 ## Build and run?
     streamlit run app.py
 ## Image to Audio:
-![alt text](./images/Screenshot 2024-05-20 at 10.43.56 PM.png)
-![alt text](./images/gen_audio_from_photo.flac)
 
+![screenshot](images/output.jpeg)
+<img src="images/output.jpeg" width="128"/>
 
+![screenshot](images/gen_audio_from_photo.flac)
         
         
