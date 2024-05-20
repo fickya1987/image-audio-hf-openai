@@ -1,4 +1,5 @@
-# Gen AI: A simple to generate a meaningful audio from uploaded photo
+# Gen AI: generate a meaningful audio from uploaded photo using HuggingFace + Langchain+ Open AI
+
 
 ### Pre-requisites:
 Install below libraries from requirements.txt file
