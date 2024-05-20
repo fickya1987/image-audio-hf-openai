@@ -17,8 +17,7 @@ pip install -r requirements.txt
 ## Image to Audio:
 
 ![screenshot](./images/output.png)
-<img src="./images/output.png" width="128"/>
 
-![screenshot](./images/gen_audio_from_photo.flac)
+Read more [here](./images/gen_audio_from_photo.flac)
         
         
